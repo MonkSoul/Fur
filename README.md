@@ -1,3 +1,1 @@
-# Fur 已经更名为 Furion
-
-## 新仓库地址：https://github.com/MonkSoul/Furion
+# 项目已转移至新仓库：https://gitee.com/dotnetchina/Furion
